@@ -1,6 +1,6 @@
 # runboyrun
 
-A new Flutter project.
+A new Flutter project. No doc is yet provided for this app.
 
 ## Getting Started
 
